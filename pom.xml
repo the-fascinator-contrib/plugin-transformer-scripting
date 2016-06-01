@@ -5,7 +5,6 @@
 	<artifactId>plugin-transformer-scripting</artifactId>
 	<version>1.1-SNAPSHOT</version>
 	<name>The Fascinator - Plugin - Transformer - Scripting</name>
-	<url>http://fascinator.usq.edu.au/trac/wiki/tf2/DeveloperNotes/plugins/transformer/jython</url>
 	<parent>
 		<artifactId>organisation</artifactId>
 		<groupId>com.googlecode.the-fascinator</groupId>

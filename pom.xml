@@ -37,5 +37,6 @@
            <connection>scm:git://github.com/the-fascinator-contrib/plugin-transformer-scripting.git</connection>
            <developerConnection>scm:git:https://github.com/the-fascinator-contrib/plugin-transformer-scripting.git</developerConnection>
            <url>scm:git://github.com/the-fascinator-contrib/plugin-transformer-scripting.git</url>
+            <tag>HEAD</tag>
        </scm>
 </project>
